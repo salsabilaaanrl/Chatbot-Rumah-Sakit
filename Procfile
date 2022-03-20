@@ -1,0 +1,1 @@
+worker: python uas_ai.py

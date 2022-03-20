@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk==3.6.5
+requests
+Sastrawi
+scikit-learn
